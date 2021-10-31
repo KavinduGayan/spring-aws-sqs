@@ -1,0 +1,7 @@
+@startuml
+actor       Sender       as Sender
+actor       Post_office       as Post_office
+actor       Receiver       as Receiver
+Sender -> Post_office: Send the parcel
+Receiver <- Post_office: Receive the parcel
+@enduml

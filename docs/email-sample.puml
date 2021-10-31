@@ -1,0 +1,8 @@
+@startuml
+Producer -> SQS: Message Request
+Producer <-- SQS: Response
+loop poll
+Consumer -> SQS: pulling Request
+Consumer <-- SQS: Response
+end
+@enduml

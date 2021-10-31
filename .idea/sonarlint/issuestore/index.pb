@@ -1,0 +1,23 @@
+
+~
+Nsqs-consumer/src/main/java/com/kavindu/sqsconsumer/SqsConsumerApplication.java,c/e/cebbf6ed1acb3d984e0fd5d07bfaf2b690633334
+D
+sqs-consumer/pom.xml,f/0/f09329e3dd805ce053678a40f787d2196c6a909b
+D
+sqs-producer/pom.xml,c/b/cb115af76e3c0ea8c4cece93bf4a76291a345e3b
+x
+Hsqs-producer/src/main/java/com/kavindu/sqsproducer/config/SqsConfig.java,5/1/5176012389080bdb11e85a2a04d4a20ef1048f3b
+x
+Hsqs-consumer/src/main/java/com/kavindu/sqsconsumer/config/SqsConfig.java,8/2/82f7f7ff62c91a6b6fa615193a69d2da00a27c2f
+u
+Esqs-producer/src/main/java/com/kavindu/sqsproducer/model/Message.java,d/d/dd81ab94c5cf2f3262915ca8eb4703ccdeade23b
+~
+Nsqs-producer/src/main/java/com/kavindu/sqsproducer/SqsProducerApplication.java,a/0/a0e00ce96281e35dbae5523b68d9214b782be6c6
+{
+Ksqs-consumer/src/main/java/com/kavindu/sqsconsumer/listner/AwsListener.java,d/e/de825af176fc891fd3cd75f6dc704ea9f0ba74c7
+9
+	Readme.md,0/c/0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+D
+sqs-producer/HELP.md,5/3/5301eb4b11724a5514a71493881c2654a8308c6d
+€
+Psqs-producer/src/main/java/com/kavindu/sqsproducer/controller/SqsController.java,3/a/3ad1977bc20c7cdb5d4dc8186f8e1c6cfa57f184
